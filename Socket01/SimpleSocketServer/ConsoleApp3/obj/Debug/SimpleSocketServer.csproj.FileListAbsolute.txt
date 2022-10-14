@@ -1,0 +1,7 @@
+C:\Users\lenovo\Downloads\Socket01\Socket01\SimpleSocketServer\ConsoleApp3\bin\Debug\SimpleServer.exe.config
+C:\Users\lenovo\Downloads\Socket01\Socket01\SimpleSocketServer\ConsoleApp3\bin\Debug\SimpleServer.exe
+C:\Users\lenovo\Downloads\Socket01\Socket01\SimpleSocketServer\ConsoleApp3\bin\Debug\SimpleServer.pdb
+C:\Users\lenovo\Downloads\Socket01\Socket01\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\Socket01\Socket01\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleServer.exe
+C:\Users\lenovo\Downloads\Socket01\Socket01\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleServer.pdb
+C:\Users\lenovo\Downloads\Socket01\Socket01\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleSocketServer.csproj.AssemblyReference.cache

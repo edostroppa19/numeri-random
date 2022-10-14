@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OvxnkIg2lT8/HTXJFVGIFqYORO9+8XnCu5ITtX5f16H6y/z9o/s1dEJUJ1JvLoLw/PtRodu0EyoON8RU1R3+1g==",
+  "success": true,
+  "projectFilePath": "F:\\Socket01\\Socket01\\stroppa_socket_form\\stroppa_socket_form\\stroppa_socket_form.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stroppa.18192\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
